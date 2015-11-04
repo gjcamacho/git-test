@@ -17,5 +17,9 @@ public class GitTestMain {
 		System.out.println("Hola Mundo");
 
 	}
+	
+	public static void funcion(){
+		
+	}
 
 }
