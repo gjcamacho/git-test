@@ -26,6 +26,9 @@ public class GitTestMain {
 	}
 	
 	public static void master(){
+	
+	}
+	public static void feature1(){
 		
 	}
 
