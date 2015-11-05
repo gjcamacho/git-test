@@ -24,5 +24,9 @@ public class GitTestMain {
 		//another comment for branch develop
 
 	}
+	
+	public static void feature2(){
+		
+	}
 
 }
