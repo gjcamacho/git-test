@@ -31,5 +31,8 @@ public class GitTestMain {
 	public static void feature1(){
 		
 	}
+	public static void feature2(){
+		
+	}
 
 }
