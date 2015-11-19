@@ -38,5 +38,9 @@ public class GitTestMain {
 	public void master2(){
 		
 	}
+	
+	public static void f1(){
+		
+	}
 
 }
